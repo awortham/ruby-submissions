@@ -26,4 +26,5 @@ This app would be geared towards the serious mtn bike riders doing seeking out t
 * What OAuth provider makes sense for this audience?
 facebook
 * What Data.gov data or API will you use?
+trail.api
 * Any other integrations?
