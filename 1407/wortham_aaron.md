@@ -31,21 +31,30 @@ This app would be geared towards the serious mtn bike riders doing seeking out t
 * Any other integrations?
 
 ### Iteration 1
+Plan to Have - what features are expected to be in place by the end of the iteration
   all views in place, basic layout
   migrations, models and db set up
-  set up email
   controllers basic actions
+Nice to Have - if things were a bit ahead of plan, how could the features go deeper / be better
+  set up email
+Uh oh - if things are really behind or going wrong, what cheats can be implemented or cuts made to get back on track
   workers -redis and resque
 
 ### Iteration 2
+Plan to Have - what features are expected to be in place by the end of the iteration
   oauth
   deploy to VPS
   add dashboard functionality
-  email users automatically
+Nice to Have - if things were a bit ahead of plan, how could the features go deeper / be better
   add maps
+Uh oh - if things are really behind or going wrong, what cheats can be implemented or cuts made to get back on track
+  email users automatically
 
 ### Iteration 3
+Plan to Have - what features are expected to be in place by the end of the iteration
   make a ruby gem
-  like button
+Nice to Have - if things were a bit ahead of plan, how could the features go deeper / be better
   search bar for all trails within x distance
+  like button
+Uh oh - if things are really behind or going wrong, what cheats can be implemented or cuts made to get back on track
   upload photos
