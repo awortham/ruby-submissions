@@ -29,3 +29,23 @@ This app would be geared towards the serious mtn bike riders doing seeking out t
 * What Data.gov data or API will you use?
      trail.api
 * Any other integrations?
+
+### Iteration 1
+  all views in place, basic layout
+  migrations, models and db set up
+  set up email
+  controllers basic actions
+  workers -redis and resque
+
+### Iteration 2
+  oauth
+  deploy to VPS
+  add dashboard functionality
+  email users automatically
+  add maps
+
+### Iteration 3
+  make a ruby gem
+  like button
+  search bar for all trails within x distance
+  upload photos
